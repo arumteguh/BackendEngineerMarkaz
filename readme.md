@@ -12,8 +12,7 @@ This is a TypeScript project that uses Node.js and `ts-node` to run TypeScript d
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/arumteguh/BackendEngineerMarkaz.git
 
 ```
 
